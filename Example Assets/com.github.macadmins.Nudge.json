@@ -64,7 +64,6 @@
         "randomDelay": false
     },
     "userInterface": {
-        "actionButtonPath": "munki://updates",
         "fallbackLanguage": "en",
         "forceFallbackLanguage": false,
         "forceScreenShotIcon": false,
@@ -79,8 +78,8 @@
             {
                 "_language": "en",
                 "actionButtonText": "Update Device",
-                "customDeferralButtonText": "Custom",
-                "customDeferralDropdownText": "Defer",
+                "customDeferralButtonText": "Custom time",
+                "customDeferralDropdownText": "Choose a time that suits you.",
                 "informationButtonText": "More Info",
                 "mainContentHeader": "Your device will restart during this update. It may hang on an Apple logo, do not power off your device",
                 "mainContentNote": "Important Notes",
